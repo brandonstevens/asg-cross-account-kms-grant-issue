@@ -1,0 +1,4 @@
+.terraform
+*.plan
+terraform.tfstate*
+QSI_950449840482468453_SSG_Enterprise_9.xml
